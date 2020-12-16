@@ -1,0 +1,39 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+h1{
+  padding: 15px;
+  background-color: white;
+  margin: auto 1em;
+}
+body{
+  background-color:lightblue;
+}
+.details{
+  margin-left: 2em;
+}
+
+.margin{
+  border: 3px solid white;
+  margin: auto 2em;
+}
+.album-v{
+background-color: greenyellow;
+display: flex;
+margin: 1em auto;
+width: 40em;
+padding: 1em;
+max-width: 75%;
+}
+button{
+  margin: 1em;
+  padding: 1em;
+  background-color: rgb(255, 255, 117);
+  border: 1px solid blue;
+  font-size:.9em;
+  border-radius: .5em;
+}
+button:hover{
+  cursor: pointer;
+}
